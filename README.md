@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @StickyMan18 my real name is Omar Kashour
-- 👀 I'm interested in AI, machine learning, and video game technologies.
-- 🌱 I’m currently a Computer Science student @ Birzeit University
-- 📫 You can reach me at stickyman823@gmail.com
-
 # 💫 About Me:
-I'm a Computer Science student at Birzeit University.<br>I'm very interested in Artificial Intelligence and it's applications.<br>I'm currently working on small-scale projects that strengthen my programming skills.<br>
+I'm a Computer Science student at Birzeit University.<br>I'm very interested inin AI, machine learning, and video game technologies.<br>I'm currently working on small-scale projects that strengthen my programming skills.<br>
 
 
 ## 🌐 Socials:
