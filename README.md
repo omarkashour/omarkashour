@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Computer Science student at Birzeit University.<br>I'm interested in Ai, machine learning, and video game technologies.<br>I'm currently working on small-scale projects that enhance my programming skills.<br>
+I'm a Computer Science student at Birzeit University.<br>I'm interested in Ai, machine learning, and video game technologies.<br>I'm currently working on small-scale projects that enrich my programming skills.<br>
 
 
 ## 🌐 Socials:
